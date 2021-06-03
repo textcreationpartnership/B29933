@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some considerations humbly offered, in relation to the bill now depending in Parliament for the further relief of creditors in cases of escape.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29933</idno><idno type="EEBO-CITATION">99886786</idno>
+  <idno type="VID">189438</idno>
+  <idno type="EEBO-PROQUEST">2248538647</idno>
+  
+            <idno type="STC">Wing S4485A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1888.c.11[15]</idno>
+            <idno type="STC">ESTC R226596</idno>
+            <idno type="PROQUEST">ocm99886786</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886786e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29933)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189438)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C16:2[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some considerations humbly offered, in relation to the bill now depending in Parliament for the further relief of creditors in cases of escape.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prisoners --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term type="topical_term">Debt, Imprisonment for --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:189438:1"/>
+            <head>Some Considerations humbly offered, in Relation to the BILL now depending in Parliament for the fur<g ref="char:EOLhyphen"/>ther Relief of Creditors in cases of Escape.</head>
+            <p>WHatever may be surmised to the contrary, its certain, that where one man comes to Prison to deceive his Credi<g ref="char:EOLhyphen"/>tors, hundreds are forced thither by mere necessity; and were it otherwise, (with submission) the more effectual way to pay the Creditor, and prevent the Grievances insisted on, would be a Sequestration of the Estate, Real and Personal of the Debtor, with severe Penalties against Frauds, Concealments, &amp;c. This surely would Esta<g ref="char:EOLhyphen"/>blish Credit, rather than the Sequestration of the Profit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Office of the <hi>Kings Bench,</hi> and <hi>Fleet,</hi> which are already scarce sufficient for the reasonable Compensation of the Officer officiating. One would think that the Act of Parliament made the last Session, might satisfie the most important Creditor:</p>
+            <q rend="margQuotes">
+               <p>WHICH <hi>(Inter al')</hi> DECLARES it an Escape for Prisoners in meane Process Contempt, or Execution, to go beyond the Rules or Limits of the said Prison, and that no Writ of Error upon Judgment for an Escape, till Bayl given, shall super<g ref="char:EOLhyphen"/>cede Execution, &amp;c.</p>
+               <p>If the Martial or Warden take Money to Connive at an Escape, they Forfeit 500<hi>l.</hi> and their Office; And that no retaking in fresh persuit is pleadable, unless Oath be made by the Officer officiating, that the Prisoner Escaped without his Consent or Privity: That if any Prisoner Escapes, the Creditor may take out new Process; and the Prisoner in Execution to be produced upon one days notice, or it shall be deemed an Escape.</p>
+               <p>That a Note in Writing, upon a Penalty, shall be given, whether any Peson enquired for, be a prisoner or not, and all Deeds relating to the <hi>Kings Bench</hi> and <hi>Fleet,</hi> are to be Inrolled according to the said Act, or in default thereof to be voyd. And Judg<g ref="char:EOLhyphen"/>ment to be signed upon an Action brought for an Escape within Three days after the Rules are out. And the Superiour to be liable to the Behaviour of the Deputy.</p>
+               <p>That no person of what Quality soever, shall pay above Two Shillings Six Pence <hi>per</hi> Week Chamber-Rent, and that only when in actual possession of a Room within the Walls of the said Prison: And that the Profits of the Office shall be Sequestred to satisfie Escapes.</p>
+            </q>
+            <p>Which Sequestration, (since the Profits are by the late Act rendred so minute) will never redound to any considerable Advantage to the Creditor, tho there were no precedent Mortgage to be paid: It appearing by the Oath of the Receiver, that the Chamber-Rent of the <hi>Fleet</hi> Prison received the last Six Months, amounts but to <hi>Fifty Five Pounds One Shilling and Sixpence</hi> pro ut particulars ready to be produced. Very few Prisoners thinking themselves oblig'd to pay any thing; there being no compulsive me<g ref="char:EOLhyphen"/>thod to oblige them thereto. Which perquisite of Chamber-Rent was formerly more than Two Thirds of the Profits of the said Office.</p>
+            <p>Nevertheless it being presumed that the profits of the said Offices are vastly more considerable than really they are, the Bill now depending Enacts,</p>
+            <q rend="margQuotes">
+               <p>THAT ALLOWING such proportion to the Officer officiating, as the Judges shall think fit (not exceeding on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> third part) the several Mortgagees shall (under penalty of Forfe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ture) be oblig'd Monthly to receive their Debts. And Books of Entry of all Profits of the said Offices receiv'd, or to grow due, to be kept, &amp; inspected by any person entituled to a Sequestration for an Escape; and the person officiating to answer upon Oath to Interrogatory's touching his Receipts; and in case of conviction of Perjury, to Forfeit his Office, be incapable to execute any other Office, and be sent to <hi>Newgate.</hi>
+               </p>
+            </q>
+            <p>'Twill be no easie matter to find any person that hath a competent measure of discretion, to run the risque of exec<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing an Of<g ref="char:EOLhyphen"/>fice under such hazardous Circumstances, being oblig'd to confine a crowd of necessitous Debtors, who to gratifie their misgrounded R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m nts or to exonerate themselves in point of paying their Dues, will not only (as may naturally be supposed) soon render the Exe<g ref="char:EOLhyphen"/>cution of the said Office unsafe (by Swearing to the payment of more than is actually Receiv'd) but make it impracticable.</p>
+            <p>But if the Officer officiating should (beyond all expectation, by reason of the multiplicity of his other Affairs) be able to keep an exact Account of all he receives, and that upon Examination of his Books it should appear he had Receiv'd Sixpence more than his just Fees, by this Act he is made an accuser of himself, and consequently lyable to be Indicted for Extortion and a Forfeiture of his Office; which, <hi>with submission,</hi> is not only contrary to the Law of the Land, but of Nature also.</p>
+            <p>That 'tis presum'd a thing needless to oblige the Mortgagees to Receive their Debts from an Office thus circumstanced, who no doubt will do it as soon as by Law or Equity they can. And if there be any Fraudulent Mortgages (as is suggested) the same be<g ref="char:EOLhyphen"/>ing Inrolled, pursuant to the late Act, are already examinablè by a Court of Equity, in an easie course, without troubling the Legislature.</p>
+            <q rend="margQuotes">
+               <p>THIS BILL further Enacts, That upon Conviction for a voluntary Escape, (besides former Penalties) the Officer officiating shall be committed to <hi>Newgate,</hi> and remain incapable to Execute any other Office. And its thereby declared to be a voluntary Escape to permit any Prisoner to Lodge in the Rules, unless the Martial or Warden take sufficient Security for true Imprisonment, and upon request Assign over the same to the Plantiff, without allowing the Marshal or Warden the priviledge of retaking the Prisoner upon a fresh pursuit, under the restrictions of the late Act.</p>
+            </q>
+            <p>This Clause in effect takes away the Benefit of the Rules of the said Prisons, allowed by antient usage, and the late Act of Parlia<g ref="char:EOLhyphen"/>ment▪ For altho a Security may be good at the time of taking (which the Officer officiating is obliged for his own preserva<g ref="char:EOLhyphen"/>tion to take care of) yet afterwards the same may prove defective; in which case the Officer must nevertheless incur the aforesaid Penalties, which nothing but the <hi>Spirit of Prophesie</hi> can free him from. The consequence of which, must put him upon attempting the confining all Prisoners within the Walls of the said Prisons, which must be as impossible to effect, as the putting a Quart of Wine into a Pint Port, not to mention the contagious Distempers which may justly be dreaded from a multitude of necessitous Persons so strictly to be confined.</p>
+            <p>Wherefore, and in regard such ample Provision is already made for preventing Escapes, and for that this Bill (<hi>instead of Answer<g ref="char:EOLhyphen"/>ing the end propos'd,</hi> Viz. <hi>The satisfying Escapes out of the Profits of the respective Prisons</hi>) does so effectually destroy the Profits of the said Offices, that without paying Escapes or Mortages, the Officer officiating may even expect some other security and recompence from the Publick, for his hazard and care in the Execution thereof.</p>
+            <p>☞ <hi>It is humbly hoped, that the said Bill shall not pass,</hi> but in case it should, the Warden of the <hi>Fleet,</hi> (who is seized in Fee of the said Office) <hi>humbly prays,</hi> a Clause may be receiv'd, impowering him to surrender his said Office to the Crown; reserving such Right as he hath by Law to the House where the said Prison is now kept; as being distinct from and not annext to the said Office, which is an Incorporeal Inheritance, and not local, having formerly been kept in St. <hi>Margarets Lane, Westminster,</hi> afterwards at <hi>Carroon</hi> House, and may be kept in any other place <hi>It being humbly conceived a thing unreasonable,</hi> That the Warden should (contrary to the course of other Prisons) provide a House of his own, subject to the aforesaid Penalties and Forfeitures, for the Execution of the said Office, when rendred worse than nothing, and hardly <hi>(if at all)</hi> practicable.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:189438:2"/>
+            <p>Some Considerations Concerning the Prison Bill.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
